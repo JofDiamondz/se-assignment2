@@ -1,0 +1,2 @@
+Agile velocity helps forecast iterations based on completed story points.
+Burndown charts show progress vs ideal; daily burn rate indicates if team will meet sprint finish.
